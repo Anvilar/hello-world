@@ -1,4 +1,4 @@
 # hello-world
 Just learning
-about data and science
+about data science,
 coding and stuff
